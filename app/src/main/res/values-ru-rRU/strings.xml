@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">АндроидБазовый</string>
+    <string name="ButtonRick">Кнопка Рика</string>
+    <string name="Button2">Кнопка2</string>
+    <string name="Button3">Кнопка3</string>
+    <string name="Button4">Кнопка4</string>
+    <string name="textView1">текст1</string>
+    <string name="textView2">текст2</string>
+    <string name="textView3">текст3</string>
+    <string name="textView4">текст4</string>
+    <string name="switch1">переключалка1</string>
+    <string name="switch2">переключалка2</string>
+    <string name="switch3">переключалка3</string>
+    <string name="switch4">переключалка4</string>
+</resources>
